@@ -1,0 +1,8 @@
+- Produces [[Red Blood Cells]] in a process called hemopoiesis (blood making)
+- Made up of developing blood cells, [[adipocytes]], [[fibroblasts]], and [[macrophages]] 
+- found in developing fetal bones and in some adult bones
+	- [[Sternum]]
+	- [[Vertebrae]]
+	- [[Skull]]
+	- [[Humerus]], at the ends
+	- [[Femur]], at the ends

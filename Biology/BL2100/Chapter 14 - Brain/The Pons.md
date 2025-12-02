@@ -1,0 +1,6 @@
+- bridge from [[Medulla Oblongata]] to the [[Mesencephalon]] and Cerebellum
+- directly above the medulla and anterior to the cerebellum
+- Contains the nuclei for four pairs of [[Cranial Nerves]] - V - VIII
+- Function:
+	- Maximizing efficiency of motor output
+	- Maximizes efficiency of respiration

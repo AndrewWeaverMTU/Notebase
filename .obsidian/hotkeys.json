@@ -1,0 +1,28 @@
+{
+  "ink:create-handwritten-section": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Key0"
+    }
+  ],
+  "ink:create-drawing-section": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "Key0"
+    }
+  ],
+  "publish:open-in-live-site": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}

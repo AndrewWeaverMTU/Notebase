@@ -1,0 +1,7 @@
+- Somatic Sensations
+	- Touch
+	- Temperature
+	- Pain
+	- Proprioceptive (where body at)
+- Visceral Sensations
+	- Internal body state

@@ -1,0 +1,3 @@
+- The sense of smell
+- Chemical sense
+- Receptors are located in the [[Olfactory Epithelium]] of the nose.

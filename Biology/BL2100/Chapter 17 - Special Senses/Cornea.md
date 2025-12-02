@@ -1,0 +1,6 @@
+- Transparent coat that covers the [[Iris]] 
+- Helps focus light onto the [[Retina]]
+- 3 Layers
+	- Outer - Nonkeratinized stratified squamous epithelium
+	- Middle - collagen fibers & fibroblasts
+	- Interior - Simple squamous epithelium

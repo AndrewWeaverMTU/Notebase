@@ -1,0 +1,22 @@
+- Not electrically excitable
+- Helper cells for the [[Nervous System]] & the [[Neurons]]
+- Make up ~50% of the volume of the nervous system. 5 -25x more numerous than neurons cell-wise
+
+
+- ### Neuroglial Types ###
+	- [[Central Nervous System]]
+		- Microglial Cell
+			- Phagocytes
+		- Oligodendrocytes
+			- Form and maintain myelin sheath
+		- Astrocytes
+			- Star-shaped, provide structural support
+		- Ependymal Cell
+			- Circulate CSF with cilia
+	- [[Peripheral Nervous System]]
+		- Schwann Cell
+			- Help build myelin
+			- _Nodes of Ranvier__ - haps in myelin between schwann cells ^fab46b
+		- Satellite Cell
+			- Flat cells surrounding the cell body that provide structural support.
+		- 

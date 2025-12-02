@@ -1,0 +1,3 @@
+- 2 types of molecular switches
+	- Phosphorylization: protein kinase
+	- GTP

@@ -1,0 +1,10 @@
+- Continuous with the [[Protective Structures of the Spinal Cord#^29d253|Spinal Meninges]]
+- Named the same as well, with Dura, Arachnoid, and Pia mater.
+	- Dura mater only has 2 layers in the cranial vs 3 in the spinal
+- Dura mater is extended to separate out cranial regions
+	- Falx Cerebri
+		- Separate Cerebral Hemispheres
+	- Tentorium Cerebelli
+		- Separate cerebrum from cerebellum
+	- Falx Cerebelli
+			- Separate cerebellum hemispheres

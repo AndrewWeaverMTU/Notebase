@@ -1,0 +1,17 @@
+- Amphiphilic
+- 3 Main Types
+	- Integral Membrane Proteins
+	- Lipid-Anchored Proteins
+	- Peripheral Proteins
+- Many are glycosylated
+	- Oligosaccharide chains and disulfide bonds are on the OUTER layer of the membrane
+	- Fatty acids are all on the inside of the [[Plasma Membrane]]
+- Can be solubized and purified in [[Detergents]]
+- Many diffuse in the plane of the membrane (across/around the same layer)
+	- Proteins aren't fixed, they're usually changing locations
+	- Membrane proteins do not flip-flop across the lipid bilayer
+		- Protein heads are polar. They can't flip, the hydrophilic head can't pass through they hydrophobic environment. 
+	- [[Restricting the Lateral Mobility of Proteins]]]- Membrane recovery is often measured by Flourescence recovery after photobleaching (FRAP)
+	- Shoot it with laser, wait until the color is normal again,.
+	- This allows us to find the diffusion constant of the membrane.
+- The membrane is shaped by [[Membrane-Bending Proteins]]

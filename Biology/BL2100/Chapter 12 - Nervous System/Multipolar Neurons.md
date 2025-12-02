@@ -1,0 +1,4 @@
+- Several dendrites
+- 1 axon
+- brain, spinal cord, all motor neurons
+- the entire [[Central Nervous System]]

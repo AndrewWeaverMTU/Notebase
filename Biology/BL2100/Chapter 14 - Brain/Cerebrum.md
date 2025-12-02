@@ -1,0 +1,4 @@
+- Cerebral cortex - [[Gray Matter]]
+	- Gyiri, fissures, sulci
+	- 
+- [[White Matter]] is deep to the cortex, connects parts of the brain to each other and the [[Spinal Cord]]

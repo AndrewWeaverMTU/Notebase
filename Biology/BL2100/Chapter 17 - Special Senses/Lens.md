@@ -1,0 +1,3 @@
+- Behind [[Pupil]] and [[Iris]], within the cavity of the [[Eyes]]
+- Contains proteins called crystallins, arranged in layers that create a refractive medium.
+- Helps focus light (images) on the [[Retina]]

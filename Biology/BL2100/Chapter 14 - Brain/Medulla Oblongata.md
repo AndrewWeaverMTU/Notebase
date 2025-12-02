@@ -1,0 +1,21 @@
+- Most inferior part of the [[Brain Stem]].
+- Beginning of the [[Spinal Cord]]
+- Regulates breathing, heartbeat, involved with coughing, swallowing, and sneezing.
+
+### Anatomy of the Medulla
+- Pyramids
+	- Bulges on the anterior part of the medulla
+	- Formed by the large corticospinal tracts that pass from the [[Cerebrum]] to the [[Spinal Cord]]
+		- Areas of [[White Matter]]
+	- A common site for decussation (crossing) of ascending and descending tracts.
+		- This is why one side of the brain controls the other half of the body.
+- Centers
+	- [[Gray Matter]] areas
+	- Vital Centers
+		- Cardiovascular Center
+		- Respiratory Center
+	- Non-Vital Centers
+		- Vomiting, swallowing, sneezing, coughing, hiccupping. 
+	- Houses five pairs of [[Cranial Nerves]], VIII-XII (8-12)
+	- Portion of the ventricle found here - fourth ventricle
+	- 

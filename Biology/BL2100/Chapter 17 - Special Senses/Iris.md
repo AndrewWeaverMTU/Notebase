@@ -1,0 +1,4 @@
+- Colored portion of the eye
+- Suspended between the [[Cornea]] and the [[Lens]].
+- Regulates the amount of light allowed through the [[Pupil]].
+- [[Oculomotor (III) Nerve]] controls the Iris, causing its *sphincter pupilae* muscles to contract, widening the pupil.

@@ -1,0 +1,23 @@
+- Part of the [[Diencephalon]]
+- Inferior to the [[Thalamus]]
+- Nuclei in 4 Main Reagon
+	- Mamillary Region
+		- Smell
+	- Tuberal Region
+		- Connects to [[Pituitary Gland]]
+	- Supraoptic Region
+		- Contains SCN, helps establish circadian rhythm
+	- Preoptic Region
+		- Autonomic regulations
+
+### Key Functions
+- Control of the [[Autonomic Nervous System]]
+- Hormone production
+	- ADH and oxytocin
+- Regulation of emotional and behavioral patterns
+- Regulation of eating and drinking
+	- Feeding and satiety centers
+	- Thirst center
+- Regulation of body temperature
+- Regulation of circadian rhythms
+	- Suprachiasmatic nucleus helps to set sleep/wake cycle

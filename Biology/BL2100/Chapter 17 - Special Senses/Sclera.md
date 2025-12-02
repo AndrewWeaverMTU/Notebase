@@ -1,0 +1,5 @@
+- White of the eye
+- Dense connective tissue, mostly collagen fibers and fibroblasts
+- Covers the entire [[Eyes|Eye]] except for the the [[Cornea]]
+- Gives structure, support, protection, and attachment points to the eye.
+- Sclera Venous Sinous - junction of sclera and cornea

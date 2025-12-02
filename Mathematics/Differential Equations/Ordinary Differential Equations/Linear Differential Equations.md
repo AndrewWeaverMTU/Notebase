@@ -1,0 +1,3 @@
+- A differential equation is linear if:
+	- y (or the dependent variable) is never multiplied by itself or any of its derivatives
+	- there are no trig functions of y.

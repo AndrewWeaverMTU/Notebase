@@ -1,0 +1,16 @@
+![[Cranial Nerves#^b9ddbe]] ^3835e6
+- Has its motor nucleus in the anterior part of the [[Mesencephalon]] (Midbrain). 
+- 2 Branches
+	- #### Superior Branch
+		- Supplies the [[Superior Rectus]] (extraocular muscle)
+		- Supplies the elevator pallbearer superioris (Upper eyelid muscle)
+	- #### Inferior Branch
+		- Supplies the [[Medial Rectus]], [[Inferior Rectus]], [[Inferior Oblique]]
+			- All extraocular muscles
+		- Supplies parasympathetic motor axons to smooth intrinsic eyeball muscles. 
+			- Ciliary muscle
+				- Adjusts lens for looking at things closer to you
+			- Circular muscles in the iris
+				- Respond to light
+			- Signals propogate from the Ciliary Ganglion
+- The sensory [[Axons]] **DO NOT** return to the [[Brain]], instead joining to form the ophthalmic branch of the [[Trigeminal (V) Nerve]]

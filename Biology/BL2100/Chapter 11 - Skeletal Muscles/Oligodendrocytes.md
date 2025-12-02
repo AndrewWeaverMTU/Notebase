@@ -1,0 +1,2 @@
+- A type of [[Neuroglia]]
+- help to form + repair the [[Myelination of Neurons|Myelin Sheath]] in the [[Central Nervous System]]

@@ -1,0 +1,3 @@
+- Does not move the eyeballs
+- Raises the upper eyelid
+- Antagonistic to the [[Orbicularis Oculi]]

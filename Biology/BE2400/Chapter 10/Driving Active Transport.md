@@ -1,0 +1,3 @@
+- [[Transport Proteins#^6d26a5|Coupled Transporters]] harness energy stored in concentration gradients to transport proteins both ways at the same time.
+- Active-driven pumps use ATP Hydrolysis
+- Light-driven pumps use light energy to move ions to create a membrane potential

@@ -1,0 +1,3 @@
+- Similar to [[Bronsted-Lowry Acids & Bases]]
+- Defined as substances that produce H30+ or OH- respectively when dissolved in H20. 
+- **ALL arrhenius bases have OH, all arrhenius acids have H**

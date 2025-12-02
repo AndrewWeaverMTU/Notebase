@@ -1,0 +1,1 @@
+- Moves the eyeball medially (towards midline)

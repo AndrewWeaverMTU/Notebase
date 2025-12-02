@@ -1,0 +1,6 @@
+- Most skeletal muscles are arranged in **antagonistic pairs** 
+	- Agonist contracts, antagonist stretches.
+	- Can change for different movements
+- Some agonists cross other joints before it reaches the joint that it moves.
+	- **Synergists** are muscles that help the agonist by stabilizing joints. 
+- **Fixators** - stabilize the origin of the agonist.

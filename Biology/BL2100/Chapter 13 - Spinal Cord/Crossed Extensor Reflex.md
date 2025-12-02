@@ -1,0 +1,2 @@
+- Helps maintain balance
+- ### contralateral [[Reflexes#^e2072a|reflex arc]] - sensory info on one side causes a motor output on the other side

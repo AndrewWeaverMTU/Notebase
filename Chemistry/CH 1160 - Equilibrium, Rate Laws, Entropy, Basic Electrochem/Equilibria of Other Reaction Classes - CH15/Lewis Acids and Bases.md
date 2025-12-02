@@ -1,0 +1,4 @@
+- Unlike [[Bronsted-Lowry Acids & Bases]], Lewis acids and bases are modeled around electron pairs, not protons.
+- Lewis acids accept electron pairs
+	- Nonmetal oxides usually act as lewis acids
+- Lewis bases donate electron pairs.

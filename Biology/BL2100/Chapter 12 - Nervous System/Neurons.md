@@ -1,0 +1,22 @@
+- Electrically excitable
+- 3 main parts
+	- Cell Body - Soma
+		- Contains the normal cell stuff
+		- Has [[Nissl Bodies]]
+	- [[Axons]]
+		- Transmitting cables
+	- [[Dendrites]]
+		- Receiver/input/sensor portion
+- 3 Main Structural Classifications
+	- [[Multipolar Neurons]]
+	- [[Bipolar Neurons]]
+	- [[(Pseudo)unipolar Neurons]]
+- 3 Main Functional Definitions
+	- [[Sensory (Afferent) Neurons]]
+	- [[Motor (Efferent) Neurons]]
+	- [[Inter (Association) Neurons]]
+
+### Presynaptic vs Postsynaptic
+- Presynaptic send a signal over a [[Synapse]]
+- Postsynaptic receive a signal over a [[Synapse]]
+	- Can receive many different signals at the same time from all kinds of neurotransmitters.

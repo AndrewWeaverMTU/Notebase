@@ -1,0 +1,12 @@
+- Amphiphilic and cone-shaped molecules that can disrupt hydrophobic association
+- "Solubilizing"
+- Disrupts lipid bilayer and brings the protein into sol'n as a protein-lipid-detergent complex.
+- Phospholipids in membranes are also solubilized by the detergent as lipid-detergent micelles. 
+- *** They become water soluble
+- Used in the Na-K pump
+
+- In research & applications:
+	- Molecules are purified and incorporated into phospholipid vesicles
+	- Allows us to analyze the activities of membrane transporters, ion channels, & signaling receptors.
+	- Can help us determine which proteins work for particular cell functions.
+	- Can be use in immunochemistry staining

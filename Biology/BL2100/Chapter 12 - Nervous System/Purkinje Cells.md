@@ -1,0 +1,3 @@
+- [[Neurons]] found in the cerebellum of the brain
+- help coordinate movements
+- big ol binary decision tree

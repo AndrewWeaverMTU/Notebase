@@ -1,0 +1,2 @@
+- Mostly cell bodies & dendrites
+- Not a lot of **myelin**

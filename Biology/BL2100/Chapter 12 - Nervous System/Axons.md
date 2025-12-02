@@ -1,0 +1,4 @@
+- Secrete Neurotransmitters
+- Conduct impulses between [[Neurons]]
+- Nerve Fibers
+- Terminate in the synaptic end bulb & axon terminal 

@@ -1,0 +1,5 @@
+- The largest portion of the [[Diencephalon]] (80%)
+- Intermediate mass joins two hemispheres of the thalamus
+- Relay station for sensory impulses.
+	- Temp, pain, touch, proprioception
+- 7 Major Groups of Nuclei

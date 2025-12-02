@@ -1,0 +1,3 @@
+- Contained in the [[Bones#^43440b|Metaphyses]]
+- Growth plates that allow the [[Bones#^ef8816|Diaphysis]] to grow in length
+- Converted into bone once growth is done, called the **Epiphyseal Line**

@@ -1,0 +1,3 @@
+- Most cells tx and rx signals
+- communication is mediated mostly by extracellular [[Extracellular Signal Molecules]]
+- 

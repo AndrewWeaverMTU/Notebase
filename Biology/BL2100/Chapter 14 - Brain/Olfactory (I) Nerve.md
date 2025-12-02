@@ -1,0 +1,6 @@
+- Entirely sensory
+- Conducts nerve impulses of smell
+- Connects with olfactory epithelium, located in the superior part of the nasal cavity & the cribiform plate
+- Olfactory bulbs - Extensions of the [[Brain]] that rest on the cribiform plate
+	- Olfactory sensory nerurons [[Synapse]] with the rest of the olfactory pathway. 
+	- 

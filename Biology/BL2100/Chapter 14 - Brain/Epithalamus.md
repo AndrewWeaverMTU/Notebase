@@ -1,0 +1,6 @@
+- Small region of the [[Diencephalon]]
+- Posterior and superior to the [[Thalamus]]
+- Consists of a pineal gland which secretes melatonin
+- contains habenular nuclei
+	- Involved in olfaction, particularly emotional responses to odors.
+- 

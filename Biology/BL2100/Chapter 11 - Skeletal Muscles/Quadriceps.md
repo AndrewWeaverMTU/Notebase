@@ -1,0 +1,3 @@
+- Rectus Femoris
+- Vastus Medialis, Lateralis, Intermedius
+- https://en.wikipedia.org/wiki/File:Quadriceps_3D.gif

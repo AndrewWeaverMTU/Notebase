@@ -1,0 +1,2 @@
+- Gives mechanical strength to cells, restricts movement of [[Membrane Proteins]]
+- [[RBCs]] have a strong cytoskeleton that lets the cell withstand the intense force in capillaries. 

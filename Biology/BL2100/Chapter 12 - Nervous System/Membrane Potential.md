@@ -1,0 +1,7 @@
+- Resting membrane potential is -70mV
+- Positive outside, negative inside
+- Ions are unevenly distributed across the plasma membrane.
+- Most anions cannot leave the cell
+- Na+ / K+ pumps cause an uneven charge.
+	- 3K+ out, 2Na+ in, net loss of 1e-
+- 

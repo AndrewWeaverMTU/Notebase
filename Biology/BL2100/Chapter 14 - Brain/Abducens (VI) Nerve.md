@@ -1,0 +1,4 @@
+- (to lead away)
+- originates from [[The Pons]] (abducens nucleus)
+- Supply the [[Lateral Rectus]] muscle through the [[Superior Orbital Fissure]]. 
+- Nerve impulses cause abduction (/lateral rotation) of the eyeball.

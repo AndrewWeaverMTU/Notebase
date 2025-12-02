@@ -1,0 +1,4 @@
+- 1 main dendrite fused to 1 axon
+- Emerge together from a cell body
+- Used in simpler sensory receptors.
+- Unipolar don't really exist for long (transition state) in vertebrates, so we go to pseudounipolar. 

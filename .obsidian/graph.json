@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Mathematics  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Biology  ",
+      "color": {
+        "a": 1,
+        "rgb": 11656587
+      }
+    },
+    {
+      "query": "path:Chemistry  ",
+      "color": {
+        "a": 1,
+        "rgb": 2506255
+      }
+    },
+    {
+      "query": "path:\"Electrical Engineering\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16763905
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.516129032258065,
+  "repelStrength": 11.8279569892473,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.3113258705047894,
+  "close": true
+}

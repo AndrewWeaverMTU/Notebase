@@ -1,0 +1,4 @@
+- 1 main dendrite
+- 1 axon.
+- Neurons of eyes and ears and the olfactory (smell) area of brain.
+- Super specialized for specific input

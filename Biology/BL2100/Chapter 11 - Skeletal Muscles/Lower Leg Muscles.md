@@ -1,0 +1,11 @@
+- Tibialis Anterior
+- Fibularis Longus
+
+- Back Of Leg
+	- Gastrocnemius
+		- The goated calf muscle
+		- Plantar Flexion
+		- Connected to the calcaneal Tendon
+	- Soleus
+		- Deep to gastrocnemius
+		- Also plantar flexion

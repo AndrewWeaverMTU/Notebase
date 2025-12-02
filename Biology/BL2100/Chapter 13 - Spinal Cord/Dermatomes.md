@@ -1,0 +1,1 @@
+- Area of skin that provides sensory input to the [[Central Nervous System]] via one pair of [[Spinal Nerves]], or by the [[Cranial Nerves|Trigeminal Nerve]] (face).

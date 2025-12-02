@@ -1,0 +1,3 @@
+- Rods and cones
+- Photoreceptor potentials are caused by an [[Neurotransmitters#^017a8d|Inhibitory Neruotransmitter]]
+- Contained in the [[Retina]]

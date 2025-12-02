@@ -1,0 +1,2 @@
+- [[Neurons]] found within the cerebral cortex.
+- Help with thoughts, memories, and awareness.

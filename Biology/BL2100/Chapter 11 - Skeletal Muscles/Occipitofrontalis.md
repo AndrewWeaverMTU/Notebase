@@ -1,0 +1,6 @@
+- Made up of two parts:
+	- Anterior - Frontal Belly, over the frontal bone
+	- Posterior - Occipital belly, over the occipital bone
+- Held together by the epicranial aponeurosis
+	- aponeurosis - strong tendon sheet
+- Covers the whole top of the head.

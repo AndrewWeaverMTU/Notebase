@@ -1,0 +1,9 @@
+- Taste
+- Chemical sense
+- 5 Primary Tastes
+	- Sour
+	- Sweet
+	- Bitter
+	- Salty
+	- Umami
+- [[Vagus (X) Nerve]], [[Glossopharyngial (IX) Nerve]], and [[Facial (VII) Nerve]] are involved in taste.

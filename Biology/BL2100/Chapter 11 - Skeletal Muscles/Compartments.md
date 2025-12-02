@@ -1,0 +1,2 @@
+- A group of [[Skeletal Muscle|Skeletal Muscles]], their associated blood vessels, & nerves.
+- All work together for a common function
