@@ -1,3 +1,0 @@
-- A common conversion unit for [[Energy (Energy Policy and Technology)|Energy]]
-- $1BTU \approx 1055 J$
-- 

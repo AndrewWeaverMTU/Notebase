@@ -1,0 +1,8 @@
+- Location of implant matters
+- Type of material matters (metal, polymer, ceramic, composite)
+- Shape of implant & complexity matters
+- Material degradation characteristics (permanent vs resorbable, how it wears and weathers)
+- surface properties (chemical and physical properties)
+	- functional groups, roughness
+- bulk properties (chemical, physical, and mechanical properties)
+	- composition, thermal expansion, strength

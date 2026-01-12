@@ -1,0 +1,5 @@
+- Divison of the [[Autonomic Nervous System]] that creates a nerve network in the GI tract
+- Sensory, inter, and motor [[Neurons]].
+- 2 Major Plexuses
+	- Myenteric - controls movement
+	- Submucosal - Controls secretions into GI tract.

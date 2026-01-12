@@ -2,7 +2,7 @@
 - An easier way (similar to FTCII) to solve [[line integrals]].
 - Positively oriented -> Counterclockwise
 #### Defintion
-
+$$$$
 ```handwritten-ink
 {
 	"versionAtEmbed": "0.3.4",

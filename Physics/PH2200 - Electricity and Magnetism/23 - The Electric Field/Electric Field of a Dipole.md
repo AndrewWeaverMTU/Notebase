@@ -1,0 +1,3 @@
+- Based on the [[Electric Field of a Point Charge]]
+- If two equal & opposite charges are separated by a small distance, they form an **electric dipole** with no net charge.
+- To find the electric field, calculate the dipole as 2 separate charges, then use superposition.

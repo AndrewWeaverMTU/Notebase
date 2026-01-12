@@ -1,0 +1,2 @@
+- Defined as a material’s resistance to local, permanent deformation
+	- Like indentation, scratching, and wear

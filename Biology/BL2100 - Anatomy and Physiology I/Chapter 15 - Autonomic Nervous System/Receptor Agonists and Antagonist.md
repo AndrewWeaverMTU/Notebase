@@ -1,0 +1,4 @@
+- Agonist - substance that binds to and activates a receptor
+	- Nicotine
+- Antagonist - Substance that binds to and blocks a receptor
+	- Caffeine 

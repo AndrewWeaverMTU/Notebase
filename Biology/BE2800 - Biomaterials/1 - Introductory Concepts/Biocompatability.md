@@ -1,0 +1,2 @@
+- The way that a [[Biomaterials|Biomaterial]] functions to produce a specific host response
+	- The way it interacts with biological functions
