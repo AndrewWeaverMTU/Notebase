@@ -153,8 +153,8 @@
         "state": {
           "type": "git-view",
           "state": {},
-          "icon": "lucide-ghost",
-          "title": "git-view"
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       }
     ],
@@ -172,17 +172,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfc20212a9b4499c",
+  "active": "41cc8d229133e259",
   "lastOpenFiles": [
-    "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Electric Fields.md",
-    "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Conductors.md",
-    "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Charge.md",
-    "Untitled.canvas",
     "Social Studies/SS3800 - Energy Policy and Technology/Reliable Sources for Energy Data.md",
     "Social Studies/SS3800 - Energy Policy and Technology/British Thermal Unit.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Energy (Energy Policy and Technology).md",
     "Social Studies/SS3800 - Energy Policy and Technology",
     "Social Studies",
+    "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Electric Fields.md",
+    "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Conductors.md",
+    "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Charge.md",
+    "Untitled.canvas",
     "Biology/BL2100/Chapter 12 - Nervous System/Axons.md",
     "Biology/BL2100/Chapter 12 - Nervous System/White Matter.md",
     "Biology/BL2100/Chapter 12 - Nervous System/Nerve Fibers.md",
@@ -202,7 +202,6 @@
     "Biology/BL2100/Chapter 12 - Nervous System/Central Nervous System.md",
     "Biology/BL2100/Chapter 12 - Nervous System/Neurotransmitters.md",
     "Biology/BL2100/Chapter 12 - Nervous System/Regeneration and Repair of Nervous Tissue.md",
-    "Biology/BL2100/Chapter 12 - Nervous System/Peripheral Nervous System.md",
     "Biology/BL2100/Chapter 12 - Nervous System",
     "Biology/BL2100/Chapter 11 - Skeletal Muscles",
     "Biology/BL2100/Chapter 13 - Spinal Cord",

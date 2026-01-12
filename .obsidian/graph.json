@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 16763905
       }
+    },
+    {
+      "query": "path:\"Social Studies\"",
+      "color": {
+        "a": 1,
+        "rgb": 7886848
+      }
+    },
+    {
+      "query": "path:Physics  ",
+      "color": {
+        "a": 1,
+        "rgb": 25086
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +60,6 @@
   "repelStrength": 11.8279569892473,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.28111875673158115,
+  "scale": 0.32897230949541273,
   "close": true
 }
