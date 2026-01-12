@@ -6,3 +6,8 @@
 	- functional groups, roughness
 - bulk properties (chemical, physical, and mechanical properties)
 	- composition, thermal expansion, strength
+
+## Procedure
+1. For A specific application -> Determine required properties
+2. From list of properties -> Identify candidate materials
+3. For the best candidate -> Specify processing techniqiues

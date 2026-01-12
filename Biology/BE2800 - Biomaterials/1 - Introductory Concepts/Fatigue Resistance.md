@@ -1,0 +1,1 @@
+- Ability to withstand repeated cyclic loading without failure

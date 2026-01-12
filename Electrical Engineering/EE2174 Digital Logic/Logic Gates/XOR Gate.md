@@ -1,6 +1,6 @@
 - Special [[OR Gate]]
 - Output 1 if an odd number of ins are 1. Otherwise 0
-- $(A’ + B)+(AB’)$
+- $(A’B)+(AB’)$
 
 ```handdrawn-ink
 {

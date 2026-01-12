@@ -1,0 +1,1 @@
+- Ability to absorb energy and resist fracture. Combination of [[Material Strength]] and [[Material Ductility]]

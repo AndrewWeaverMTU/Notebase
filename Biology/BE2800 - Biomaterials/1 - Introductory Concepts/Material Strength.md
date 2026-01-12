@@ -1,0 +1,1 @@
+- Resistance to deformation or failure under load

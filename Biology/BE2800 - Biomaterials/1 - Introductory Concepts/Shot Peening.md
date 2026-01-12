@@ -1,0 +1,3 @@
+- Mechanical surface treatment using high-velocity spherical particles
+- Creates surface [[Material Hardness|Hardness]] while maintaining bulk ductility.
+- Prevents surface defects and crack propagation, increases resistance to stress-corrosion cracking

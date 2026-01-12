@@ -1,0 +1,1 @@
+- Ability to return to original shape after stress is removed. Described by [[Young’s Modulus]]
