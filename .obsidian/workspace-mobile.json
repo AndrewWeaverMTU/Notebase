@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0075b671f744a0ed",
+        "id": "2f0c026f80e1412e",
         "type": "tabs",
         "children": [
           {
-            "id": "3c909b929eface88",
+            "id": "384577c73aeded82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Charge.md",
+                "file": "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Electric Fields.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Charge"
+              "title": "Electric Fields"
             }
           }
         ]
@@ -186,8 +186,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c909b929eface88",
+  "active": "384577c73aeded82",
   "lastOpenFiles": [
+    "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Conductors.md",
+    "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Charge.md",
     "Untitled.canvas",
     "Social Studies/SS3800 - Energy Policy and Technology/Reliable Sources for Energy Data.md",
     "Social Studies/SS3800 - Energy Policy and Technology/British Thermal Unit.md",
@@ -215,7 +217,6 @@
     "Biology/BL2100/Chapter 12 - Nervous System/Regeneration and Repair of Nervous Tissue.md",
     "Biology/BL2100/Chapter 12 - Nervous System/Peripheral Nervous System.md",
     "Biology/BL2100/Chapter 12 - Nervous System/Neurotransmitter Receptors.md",
-    "Biology/BL2100/Chapter 12 - Nervous System/Nissl Bodies.md",
     "Biology/BL2100/Chapter 12 - Nervous System",
     "Biology/BL2100/Chapter 11 - Skeletal Muscles",
     "Biology/BL2100/Chapter 13 - Spinal Cord",
