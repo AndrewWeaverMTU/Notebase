@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "a43bffbd8738afdf",
+    "id": "6cf871e4b3b1ac93",
     "type": "split",
     "children": [
       {
-        "id": "b186cf6c42128daf",
+        "id": "0075b671f744a0ed",
         "type": "tabs",
         "children": [
           {
-            "id": "02208935d32b55de",
+            "id": "3c909b929eface88",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -23,24 +23,24 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5700b0a3a7e67f98",
+    "id": "1e851d3d4981e1ea",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f5c4d9db9a94d742",
+        "id": "41cc8d229133e259",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": true
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
         }
       },
       {
-        "id": "5dc449503a54c79c",
+        "id": "ecb930bfb3063644",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -57,7 +57,7 @@
         }
       },
       {
-        "id": "16d75084f87f49c2",
+        "id": "40ab83adfcacdcd1",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -72,7 +72,21 @@
         }
       },
       {
-        "id": "6c5810d9543d64a0",
+        "id": "6d779e3e06befd71",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "ad0c07e5ff0a071b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -85,30 +99,29 @@
     "currentTab": 0
   },
   "right": {
-    "id": "5fd5a641f6acbbac",
+    "id": "18a6a8565aa0a35e",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "7c32c804ad158e56",
+        "id": "d252f4930a066673",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Electrical Engineering/EE2112/First-Order Transient Circuits.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": false
+            "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
         }
       },
       {
-        "id": "61542fe44422754b",
+        "id": "5af17294570eecb4",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -121,7 +134,7 @@
         }
       },
       {
-        "id": "b11945094f98e4ef",
+        "id": "7be9c9c605b528aa",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -135,17 +148,7 @@
         }
       },
       {
-        "id": "59e5628fa70f50b7",
-        "type": "leaf",
-        "state": {
-          "type": "advanced-tables-toolbar",
-          "state": {},
-          "icon": "spreadsheet",
-          "title": "Advanced Tables"
-        }
-      },
-      {
-        "id": "e7cc56161c7a1c68",
+        "id": "9d6a09481113f410",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -155,7 +158,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,48 +169,46 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02208935d32b55de",
+  "active": "3c909b929eface88",
   "lastOpenFiles": [
-    "Biology/BL2100/Chapter 12 - Nervous System/Neurotransmitter Receptors.md",
-    "Preganglionic Neurons.md",
-    "Postganglionic Nerurons.md",
-    "Autonomic Plexuses.md",
-    "Biology/BL2100/Chapter 13 - Spinal Cord/Nerve Plexus.md",
-    "Sympathetic Nervous System.md",
-    "Autonomic Ganglia.md",
-    "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Flux Integrals.md",
-    "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Line Integrals.md",
-    "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Green‘s Theorem.md",
-    "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Divergence Theorem.md",
-    "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Arc Length.md",
-    "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Surface Area.md",
-    "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Surface Integrals.md",
-    "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Parametric Surfaces.md",
-    "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Gradient Vector Fields.md",
-    "Electrical Engineering/EE2112/Chapter 8 - AC/AC Sinusoidal & Complex Forcing Functions.md",
-    "Electrical Engineering/EE2112/Chapter 8 - AC/Phasors.md",
-    "Biology/BL2100/Chapter 15 - Autonomic Nervous System/Autonomic Nervous System.md",
-    "Biology/BL2100/Chapter 12 - Nervous System/Central Nervous System.md",
+    "Untitled.canvas",
+    "Social Studies/SS3800 - Energy Policy and Technology/Reliable Sources for Energy Data.md",
+    "Social Studies/SS3800 - Energy Policy and Technology/British Thermal Unit.md",
+    "Social Studies/SS3800 - Energy Policy and Technology/Energy (Energy Policy and Technology).md",
+    "Social Studies/SS3800 - Energy Policy and Technology",
+    "Social Studies",
+    "Biology/BL2100/Chapter 12 - Nervous System/Axons.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/White Matter.md",
     "Biology/BL2100/Chapter 12 - Nervous System/Nerve Fibers.md",
-    "Biology/BL2100/Chapter 6 - Skeletal System & Bone Tissue/Epiphyseal Plate.md",
-    "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Divergence.md",
-    "2025-12-01.md",
-    "Biology/BL2100/Chapter 6 - Skeletal System & Bone Tissue/Skeletal System.md",
-    "Biology/BL2100/Chapter 15 - Autonomic Nervous System",
-    "Untitled.base",
-    "Ink/Writing/2025.12.1 - 8.23am.writing",
-    "Mathematics/Differential Equations/Partial Differential Equations/The Heat Equation.md",
-    "Ink/Writing/2025.12.1 - 8.16am.writing",
-    "Ink/Drawing/2025.11.27 - 15.26pm.drawing",
-    "Untitled 1",
+    "Biology/BL2100/Chapter 12 - Nervous System/Neuroglia.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/(Pseudo)unipolar Neurons.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Bipolar Neurons.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Myelination of Neurons.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Multipolar Neurons.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Dendrites.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Gray Matter.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Electrical Signals in Neurons.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Neural Circuits.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Neurons.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Nervous System.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Neuropeptides.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Synapse.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Central Nervous System.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Neurotransmitters.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Regeneration and Repair of Nervous Tissue.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Peripheral Nervous System.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Neurotransmitter Receptors.md",
+    "Biology/BL2100/Chapter 12 - Nervous System/Nissl Bodies.md",
+    "Biology/BL2100/Chapter 12 - Nervous System",
+    "Biology/BL2100/Chapter 11 - Skeletal Muscles",
+    "Biology/BL2100/Chapter 13 - Spinal Cord",
     "Biology/BL2100/Chapter 6 - Skeletal System & Bone Tissue",
-    "Ink/Drawing/2025.11.26 - 18.20pm.drawing",
-    "Chemistry/Organic/Structure and Bonding",
-    "Chemistry/CH 1160 - Equilibrium, Rate Laws, Entropy, Basic Electrochem/Thermodynamics - CH16/Complete Thermodynamic Parameters Table.pdf",
-    "Untitled.canvas"
+    "Biology/BL2100/Chapter 14 - Brain",
+    "Biology/BL2100/Chapter 15 - Autonomic Nervous System",
+    "Biology/BL2100/Chapter 17 - Special Senses",
+    "Biology/BE2400/Chapter 11"
   ]
 }
