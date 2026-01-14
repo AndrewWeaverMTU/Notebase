@@ -20,3 +20,12 @@ Three equal point charges $q$ are located on the $y$-axis at $y = 0$ and $y =  \
 	"filepath": "Ink/Writing/2026.1.9 - 9.35am.writing"
 }
 ```
+
+### Example 2
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Writing/2026.1.14 - 10.08am.writing"
+}
+```

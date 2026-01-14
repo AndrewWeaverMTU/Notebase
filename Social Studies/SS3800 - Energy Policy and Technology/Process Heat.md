@@ -1,0 +1,3 @@
+- A large portion of combustible energy consumption goes to process heat
+- The heat required to make things
+- Most of coal-generated industrial process heat goes to steel

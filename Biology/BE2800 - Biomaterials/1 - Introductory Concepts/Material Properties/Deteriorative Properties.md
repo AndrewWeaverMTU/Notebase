@@ -11,4 +11,4 @@
 
 ![[Thermal Degradation]]
 
-![[Stress Corrosion]]
+![[Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Stress Corrosion]]erties/Stress Corrosion]]iomaterials/1 - Introductory Concepts/Material Properties/Stress Corrosion]]

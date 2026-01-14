@@ -18,78 +18,6 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "bf370ad0944e311d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Coulomb’s Law.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Coulomb’s Law"
-            }
-          },
-          {
-            "id": "b7f2501646da58c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electrical Engineering/EE2174 Digital Logic/Sum of Products.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sum of Products"
-            }
-          },
-          {
-            "id": "34ae785c40ea0563",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electrical Engineering/EE2174 Digital Logic/Product of Sums.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Product of Sums"
-            }
           }
         ]
       }
@@ -246,43 +174,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41cc8d229133e259",
+  "active": "193a5b52429530bb",
   "lastOpenFiles": [
-    "Electrical Engineering/EE2174 Digital Logic/Product of Sums.md",
-    "Ink/Writing/2026.1.12 - 13.41pm.writing",
-    "Ink/Drawing/2026.1.12 - 13.41pm.drawing",
-    "Electrical Engineering/EE2174 Digital Logic/Sum of Products.md",
-    "Ink/Writing/2026.1.12 - 13.34pm.writing",
-    "Ink/Drawing/2026.1.12 - 13.33pm.drawing",
-    "Electrical Engineering/EE2174 Digital Logic/Logic Gates/XOR Gate.md",
-    "Electrical Engineering/EE2174 Digital Logic/Logic Gates/NOT Gate.md",
-    "Ink/Writing/2026.1.12 - 13.30pm.writing",
-    "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Coulomb’s Law.md",
-    "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Conductors.md",
-    "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Charge Polarization.md",
-    "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Charge.md",
-    "Electrical Engineering/EE3131 Electronics/Operational Amplifiers.md",
-    "Ink/Drawing/2026.1.12 - 11.39am.drawing",
-    "Ink/Drawing/2026.1.12 - 11.30am.drawing",
-    "Ink/Drawing/2026.1.12 - 11.07am.drawing",
-    "Ink/Drawing/2026.1.12 - 11.00am.drawing",
-    "Biology/BL2100 - Anatomy and Physiology I/Chapter 12 - Nervous System/Neurons.md",
-    "Biology/BL2100 - Anatomy and Physiology I/Chapter 12 - Nervous System/Multipolar Neurons.md",
-    "Biology/BL2100 - Anatomy and Physiology I/Chapter 12 - Nervous System/Central Nervous System.md",
-    "Biology/BL2100 - Anatomy and Physiology I/Chapter 12 - Nervous System/(Pseudo)unipolar Neurons.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Hardness.md",
-    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/The Electric Field of a Continuous Charge Distribution.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Types of Materials.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Strength.md",
-    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Line of Charge.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Fatigue Resistance.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Mechanical Properties.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Plasticity.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Property Types.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Elasticity.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Toughness.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Choosing Materials for Applications.md",
-    "Social Studies/SS3800 - Energy Policy and Technology",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Stress Corrosion.md",
+    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Dipole.md",
+    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Point Charge.md",
+    "Ink/Writing/2026.1.14 - 10.08am.writing",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Thermal Degradation.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Wear Resistance.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Creep.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Oxidation Resistance.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Corrosion Resistance.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Fatigue Resistance.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Ductility.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Elasticity.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Resilience.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Strength.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Toughness.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Hardness.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Fracture Toughness.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Plasticity.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Structure.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Magnetic Properties.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Thermal Properties.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Optical Properties.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Thermal Conductivity.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Material Property Types.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Surface Properties.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties",
+    "/Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties",
+    "/Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties",
+    "/Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties",
+    "/Biology/BE2800 - Biomaterials/1 - Introductory Concepts",
+    "/Biology/BE2800 - Biomaterials",
+    "/Biology",
     "Untitled.canvas"
   ]
 }

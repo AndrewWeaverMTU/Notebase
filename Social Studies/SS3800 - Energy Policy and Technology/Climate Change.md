@@ -1,0 +1,3 @@
+- 97-98% of climate researchers agree that global warming is real and is caused by human activities
+	- People estimate that ~50% of researchers agree, which is FAR lower than actual
+- 
