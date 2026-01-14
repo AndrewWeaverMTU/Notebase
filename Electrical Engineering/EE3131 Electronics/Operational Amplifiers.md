@@ -33,6 +33,12 @@ $$v_\text{out} = A_0 \cdot(v_+ - v_-)$$
 		- if $v_+ - v_- \to +$, then $v_{out} = V_\text{POS}$
 		- if $v_+ - v_- \to -$, then $v_{out} = V_\text{NEG}$
 		- if $v_+ - v_- = 0$, then $V_\text{NEG}< v_{out} < V_\text{POS}$ (called a virtual short)
+
+### Virtual Shorts
+- For ideal op-amp analysis with negative feedback, the two input terminals should have the same voltage, creating a “virtual short”
+- By assuming a virtual short, we can greatly simplify op-amp analysis (see inverting config example 2 [[#^6e1bb5|here]])
+### Input Resistance
+- $R_{in} = \frac{v_{in}}{i_{in}}$
 # Op-Amp Configurations
 ## Inverting Configuration
 
@@ -45,7 +51,53 @@ $$v_\text{out} = A_0 \cdot(v_+ - v_-)$$
 }
 ```
 - Feedback circuit - output is determined by the inputs, but the output also alters the input until an equilibrium is reached.
-- 
+- For an inverting configuration, the closed loop gain is $\frac{v_{out}}{v_{in}} = -\frac{R_2}{R_1}$ 
+	- If $R_2 = R_1$, then $v_{out} = -v_{in}$, thus inverting the signal. 
+#### Inverting Config Example
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.1.14 - 11.10am.drawing",
+	"width": 504,
+	"aspectRatio": 0.782608695652174
+}
+```
+#### Inverting Config With Virtual Short
+
+^6e1bb5
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.1.14 - 11.23am.drawing",
+	"width": 500,
+	"aspectRatio": 1
+}
+```
+### Summation Amplifier
+- Used to mix signals into a single track
+	- Could be used in primitive audio processing
+	- 
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.1.14 - 11.34am.drawing",
+	"width": 450,
+	"aspectRatio": 2.830188679245283
+}
+```
+#### Summation Ex1
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.1.14 - 11.37am.drawing",
+	"width": 404,
+	"aspectRatio": 0.8782608695652174
+}
+```
+
 # Internal Operation
  3 Major Steps:
  1. Differential Amplifier - 2 inputs - Inverting (v-) and non-inverting (v+) terminals
