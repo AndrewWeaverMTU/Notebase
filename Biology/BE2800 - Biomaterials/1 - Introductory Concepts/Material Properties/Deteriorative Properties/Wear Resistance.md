@@ -1,0 +1,1 @@
+- A material's resistance to surface loss due to friction or abrasion

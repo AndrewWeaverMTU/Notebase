@@ -1,0 +1,1 @@
+- Ability to absorb energy when elastically deformed and release it upon unloading

@@ -1,0 +1,5 @@
+- Properties of the first few atomic layers
+- can be made distinct from bulk by processing or integration with biological factors
+- Key to protein attachment
+- Both chemical and physical nature
+- The properties that make first contact with the body.

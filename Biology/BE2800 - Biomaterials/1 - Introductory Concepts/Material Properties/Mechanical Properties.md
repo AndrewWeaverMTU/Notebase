@@ -1,0 +1,16 @@
+- Describe a material’s behavior under applied forces or loads, including its ability to resist deformation, fracture, or wear
+![[Material Strength]] ![[Material Ductility]]
+Brittleness - tendency to fracture with little to no plastic deformation
+![[Material Hardness]]
+
+![[Material Toughness]]  
+
+![[Material Elasticity]]
+
+![[Material Plasticity]]
+
+![[Fatigue Resistance]]
+
+![[Material Resilience]]
+
+![[Fracture Toughness]]

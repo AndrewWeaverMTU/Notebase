@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "5fde757ee50bebd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e12b2de3468c76d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e2f4fab7b8e1e69",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da45d7bc23ee93d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "75fbf193d34b0ef3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b9e592fa521c024",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "90dc4c3dc505afec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b720b9b1ac751c90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a2b3bd40260cf74",
+    "type": "split",
+    "children": [
+      {
+        "id": "02b5bc98662b7ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60405704daf92927",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Deteriorative Properties/Wear Resistance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Wear Resistance"
+            }
+          },
+          {
+            "id": "cc513d8d6347fb00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Deteriorative Properties/Wear Resistance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Wear Resistance"
+            }
+          },
+          {
+            "id": "705aeb66fc86bc87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9e00778644e92607",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Deteriorative Properties/Wear Resistance.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Wear Resistance"
+            }
+          },
+          {
+            "id": "8a763510e1f3a2ae",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9e2f4fab7b8e1e69",
+  "lastOpenFiles": [
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Optical Properties.md",
+    "Stress Corrosion.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Surface Properties.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Magnetic Properties.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Shot Peening.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Thermal Degradation.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Wear Resistance.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Thermal Conductivity.md",
+    "Magnetic Storage.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Thermal Properties.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Creep.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Oxidation Resistance.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Corrosion Resistance.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Material Property Types.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Choosing Materials for Applications.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Toughness.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Fracture Toughness.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Resilience.md",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Ductility.md"
+  ]
+}

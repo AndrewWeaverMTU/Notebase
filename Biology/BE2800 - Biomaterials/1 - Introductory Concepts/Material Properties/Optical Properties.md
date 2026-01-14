@@ -1,0 +1,1 @@
+- Light transmittance of materials depend on their structural characteristics.

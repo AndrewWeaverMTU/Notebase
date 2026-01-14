@@ -1,0 +1,1 @@
+- A material's slow, permanent deformation under constant load over time

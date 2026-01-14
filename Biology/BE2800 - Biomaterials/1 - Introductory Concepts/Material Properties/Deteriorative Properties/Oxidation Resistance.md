@@ -1,0 +1,2 @@
+- Ability to resist breakdown when exposed to oxygen at high temperatures
+- Particularly important for metals

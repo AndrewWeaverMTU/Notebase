@@ -1,0 +1,2 @@
+- Tendency to chemically react with the environment
+- Like metals rusting

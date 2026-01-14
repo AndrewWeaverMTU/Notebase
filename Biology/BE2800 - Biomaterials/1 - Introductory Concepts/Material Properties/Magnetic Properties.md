@@ -1,0 +1,1 @@
+- Used by magnetic storage (hard drives) on computers.

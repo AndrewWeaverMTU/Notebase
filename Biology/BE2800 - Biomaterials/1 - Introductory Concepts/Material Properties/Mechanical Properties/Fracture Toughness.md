@@ -1,0 +1,1 @@
+- Ability to resist crack propagation once a crack is present.

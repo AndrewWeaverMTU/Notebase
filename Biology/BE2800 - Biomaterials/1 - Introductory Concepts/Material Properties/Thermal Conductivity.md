@@ -1,0 +1,2 @@
+- A material's ability to carry heat
+- Highly porous materials are poor conductors of heat

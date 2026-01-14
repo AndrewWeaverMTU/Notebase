@@ -1,0 +1,1 @@
+- A material's deterioration in response to heat.
