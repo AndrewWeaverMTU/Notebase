@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e12b2de3468c76d",
+        "id": "155b102d7d3080af",
         "type": "tabs",
         "children": [
           {
-            "id": "9e2f4fab7b8e1e69",
+            "id": "6fec6f94d7daf818",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e2f4fab7b8e1e69",
+  "active": "3b9e592fa521c024",
   "lastOpenFiles": [
+    "Electrical Engineering/EE2174 Digital Logic/Sum of Products.md",
+    "Electrical Engineering/EE2174 Digital Logic/Implicants.md",
+    "Electrical Engineering/EE2174 Digital Logic/Representations of Digital Systems.md",
+    "Electrical Engineering/EE2174 Digital Logic/Product of Sums.md",
+    "Social Studies/SS3800 - Energy Policy and Technology/Process Heat.md",
+    "Social Studies/SS3800 - Energy Policy and Technology/Climate Change.md",
+    "Ink/Writing/2026.1.14 - 10.08am.writing",
+    "Ink/Drawing/2026.1.14 - 11.37am.drawing",
+    "Ink/Drawing/2026.1.14 - 11.34am.drawing",
+    "Ink/Drawing/2026.1.14 - 11.23am.drawing",
+    "Ink/Drawing/2026.1.14 - 11.10am.drawing",
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Stress Corrosion.md",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Optical Properties.md",
     "Stress Corrosion.md",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties.md",
@@ -199,8 +211,6 @@
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Choosing Materials for Applications.md",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Toughness.md",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Fracture Toughness.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Resilience.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Ductility.md"
+    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Fracture Toughness.md"
   ]
 }
