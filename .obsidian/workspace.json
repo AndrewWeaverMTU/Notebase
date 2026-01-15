@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "cb07b0dcd10a1977",
+            "id": "dcce3229b7786005",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Studies/SS3800 - Energy Policy and Technology/Energy (Energy Policy and Technology).md",
+                "file": "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Ring of Charge.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,55 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Energy (Energy Policy and Technology)"
-            }
-          },
-          {
-            "id": "adfdd7ebc9d44065",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Studies/SS3800 - Energy Policy and Technology/Energy Outlooks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Energy Outlooks"
-            }
-          },
-          {
-            "id": "9e85f68f40ad975d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Studies/SS3800 - Energy Policy and Technology/Energy Outlooks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Energy Outlooks"
+              "title": "Electric Field of a Ring of Charge"
             }
           }
         ],
@@ -249,10 +201,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb07b0dcd10a1977",
+  "active": "dcce3229b7786005",
   "lastOpenFiles": [
-    "Social Studies/SS3800 - Energy Policy and Technology/EROI.md",
+    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/The Electric Field of a Continuous Charge Distribution.md",
+    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Ring of Charge.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Energy Outlooks.md",
+    "Social Studies/SS3800 - Energy Policy and Technology/Energy (Energy Policy and Technology).md",
+    "Social Studies/SS3800 - Energy Policy and Technology/EROI.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Carbon Intensity.md",
     "Electrical Engineering/EE2174 Digital Logic/Sum of Products.md",
     "Electrical Engineering/EE2174 Digital Logic/Implicants.md",
@@ -280,10 +235,7 @@
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Thermal Properties.md",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Creep.md",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Oxidation Resistance.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Corrosion Resistance.md",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Material Property Types.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties.md",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties"
   ]
 }
