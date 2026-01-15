@@ -1,0 +1,2 @@
+- The amount of Carbon emission in a place's [[Energy (Energy Policy and Technology)|Energy]] production infrastructure
+- Carbon intensity is projected to decrease everywhere.

@@ -1,0 +1,3 @@
+- [[Energy (Energy Policy and Technology)|Energy]] return on investment
+- Energy to produce V.S. Energy output
+- Not just a measure of conversion efficiency. Involves ALL energy efficiencies related to production, conversion, transportation, etc.
