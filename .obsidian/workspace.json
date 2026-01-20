@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Parallel-Plate Capacitors.md",
+                "file": "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Electric Fields.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Parallel-Plate Capacitors"
+              "title": "Electric Fields"
             }
           }
         ],
@@ -201,8 +201,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b9e592fa521c024",
+  "active": "1679c2cd4707cb12",
   "lastOpenFiles": [
+    "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Coulomb’s Law.md",
+    "Physics/PH2200 - Electricity and Magnetism/22 - Electric Charges and Forces/Electric Fields.md",
+    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Dipole.md",
+    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Line of Charge.md",
+    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Plane of Charge.md",
     "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Parallel-Plate Capacitors.md",
     "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Ring of Charge.md",
     "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/The Electric Field of a Continuous Charge Distribution.md",
@@ -230,11 +235,6 @@
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Shot Peening.md",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Thermal Degradation.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Wear Resistance.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Thermal Conductivity.md",
-    "Magnetic Storage.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Thermal Properties.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Creep.md",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties"
   ]
