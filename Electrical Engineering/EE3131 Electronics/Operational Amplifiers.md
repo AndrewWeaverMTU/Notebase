@@ -97,6 +97,76 @@ $$v_\text{out} = A_0 \cdot(v_+ - v_-)$$
 	"aspectRatio": 0.8782608695652174
 }
 ```
+## Noninverting Configuration
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.1.16 - 11.00am.drawing",
+	"width": 250,
+	"aspectRatio": 1
+}
+```
+- Infinite Input Resistance (0 input current, $\lim_{i\to\\0} \frac{v}{i} = \infty = R_{in}$)
+### $V_{out}$ equation
+$$v_{out} = \left( 1 + \frac{R_2}{R_1}\right)\cdot v_{in}$$
+### Solving Example
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.1.16 - 11.02am.drawing",
+	"width": 400,
+	"aspectRatio": 1
+}
+```
+
+## Voltage Follower (Buffer Follower) Configuration
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.1.16 - 11.15am.drawing",
+	"width": 250,
+	"aspectRatio": 2.208588957055215
+}
+```
+- $v_{out} = v_{in}$, $R_{in} = \lim_{i\to\\0} \frac{v}{i}= \infty$
+- Used to maintain voltage but block current, thereby ignoring resistors afterwards
+### Example Setup
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.1.16 - 11.19am.drawing",
+	"width": 300,
+	"aspectRatio": 0.5432372505543237
+}
+```
+
+## Difference Amplifier
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.1.16 - 11.35am.drawing",
+	"width": 300,
+	"aspectRatio": 1
+}
+```
+- Very rarely used, too many resistors to deal with & non-infinite input resistance.´
+$$v_{out} = \frac{R_2}{R_1} \cdot (v_2 - v_1)$$
+- only if R2 = R4 and R1 = R3
+### Solving
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.1.16 - 11.36am.drawing",
+	"width": 504,
+	"aspectRatio": 0.7567567567567568
+}
+```
 
 # Internal Operation
  3 Major Steps:

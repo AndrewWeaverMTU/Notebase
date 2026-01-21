@@ -1,0 +1,1 @@
+- Spots in [[Karnaugh Maps]] 

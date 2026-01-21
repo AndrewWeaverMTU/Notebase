@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "23fd74adfcddf489",
+        "id": "5f23ac64eea37f0a",
         "type": "tabs",
         "children": [
           {
-            "id": "193a5b52429530bb",
+            "id": "d265d98a0b4651f7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -165,23 +165,38 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "193a5b52429530bb",
+  "active": "d265d98a0b4651f7",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Electric.md",
+    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Line of Charge.md",
+    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Disk of Charge.md",
+    "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics.md",
+    "Social Studies/SS3800 - Energy Policy and Technology/Externalities.md",
+    "Social Studies/SS3800 - Energy Policy and Technology/Goods.md",
+    "Electrical Engineering/EE2174 Digital Logic/Sum of Products.md",
+    "Electrical Engineering/EE2112 Circuits/Chapter 8 - AC/Phasors.md",
+    "Social Studies/SS3800 - Energy Policy and Technology/EROI.md",
+    "Social Studies/SS3800 - Energy Policy and Technology/Energy (Energy Policy and Technology).md",
+    "Electrical Engineering/EE2174 Digital Logic/Product of Sums.md",
+    "Electrical Engineering/EE2174 Digital Logic/Static Hazards.md",
+    "Untitled",
+    "Electrical Engineering/EE3131 Electronics/Operational Amplifiers.md",
+    "Ink/Drawing/2026.1.16 - 11.36am.drawing",
+    "Ink/Drawing/2026.1.16 - 11.35am.drawing",
+    "Ink/Drawing/2026.1.16 - 11.19am.drawing",
+    "Ink/Drawing/2026.1.16 - 11.15am.drawing",
+    "Ink/Drawing/2026.1.16 - 11.02am.drawing",
+    "Ink/Drawing/2026.1.16 - 11.00am.drawing",
     "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Ring of Charge.md",
     "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Sphere of Charge.md",
+    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/The Electric Field of a Continuous Charge Distribution.md",
     "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Plane of Charge.md",
-    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Disk of Charge.md",
+    "Electric.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Energy Outlooks.md",
-    "Social Studies/SS3800 - Energy Policy and Technology/EROI.md",
     "/Social Studies/SS3800 - Energy Policy and Technology/Energy Outlooks.md",
     "/Social Studies/SS3800 - Energy Policy and Technology/EROI.md",
     "/Social Studies/SS3800 - Energy Policy and Technology/Carbon Intensity.md",
@@ -190,26 +205,9 @@
     "/Social Studies",
     "/Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Ring of Charge.md",
     "/Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field",
-    "/Physics/PH2200 - Electricity and Magnetism",
-    "/Physics",
-    "Untitled.base",
-    "Electrical Engineering/EE3131 Electronics/Operational Amplifiers.md",
-    "Ink/Drawing/2026.1.14 - 11.37am.drawing",
-    "Ink/Drawing/2026.1.14 - 11.34am.drawing",
-    "Ink/Drawing/2026.1.14 - 11.23am.drawing",
-    "Ink/Drawing/2026.1.14 - 11.10am.drawing",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Stress Corrosion.md",
     "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Dipole.md",
     "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Point Charge.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Thermal Degradation.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Wear Resistance.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Creep.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Oxidation Resistance.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Corrosion Resistance.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Fatigue Resistance.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Ductility.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Elasticity.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Resilience.md",
     "Untitled.canvas"
   ]
 }

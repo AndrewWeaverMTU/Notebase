@@ -147,3 +147,7 @@ becomes
 |           |     |     |     |     |
 becomes
 $X = C + A$, as 1 appears when A or C is true.
+
+### 5-Variable Karnaugh Map
+- Uses two maps that are basically stacked on top of each other
+- Implicants become 3D
