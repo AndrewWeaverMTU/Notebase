@@ -168,6 +168,62 @@ $$v_{out} = \frac{R_2}{R_1} \cdot (v_2 - v_1)$$
 }
 ```
 
+## Omp-Amp Integrator Configuration (Inverting Integrator)
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.1.21 - 11.26am.drawing",
+	"width": 300,
+	"aspectRatio": 1
+}
+```
+
+### Solving
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.1.21 - 11.28am.drawing",
+	"width": 500,
+	"aspectRatio": 1
+}
+```
+
+## Op-Amp Differentiator Configuration
+- Inverting differentiator
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.1.21 - 11.38am.drawing",
+	"width": 300,
+	"aspectRatio": 1
+}
+```
+### Solving
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.1.21 - 11.39am.drawing",
+	"width": 500,
+	"aspectRatio": 1
+}
+```
+## Inverting Schmitt Trigger Configuration                
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.1.21 - 11.47am.drawing",
+	"width": 300,
+	"aspectRatio": 1
+}
+```
+- **Positive** feedback circuit.
+- Acts as a comparator
+- Vout will equal Vpos or Vneg
+- If $V_{out} = V_{pos}$
 # Internal Operation
  3 Major Steps:
  1. Differential Amplifier - 2 inputs - Inverting (v-) and non-inverting (v+) terminals
