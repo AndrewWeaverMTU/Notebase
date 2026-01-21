@@ -1,0 +1,4 @@
+- Composed of reconfigurable cells that are highly interconnected.
+- A hardware descriptive language (HDL) specifies how the cells are configured
+	- [[Verilog]] 
+- Allows for high speed parallel processing.

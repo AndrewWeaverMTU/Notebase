@@ -1,0 +1,3 @@
+- HDL used for configuring [[Field Programmable Gate Arrays (FPGAs)]]
+- Modular, hierarchical
+- Each module is a unique instance.
