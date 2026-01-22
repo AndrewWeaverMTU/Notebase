@@ -1,0 +1,1 @@
+- The product of the force and the moment arm

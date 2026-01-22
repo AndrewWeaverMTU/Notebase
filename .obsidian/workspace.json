@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "1945145e68302b3f",
+            "id": "89011ce5a67f01aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/Financing.md",
+                "file": "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Motion of a Charged Particle In An Electric Field.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,35 +40,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Financing"
-            }
-          },
-          {
-            "id": "0a592a945ecf3b12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/Levelized Cost of Energy.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Levelized Cost of Energy"
+              "title": "Motion of a Charged Particle In An Electric Field"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Deteriorative Properties/Wear Resistance.md",
+                "file": "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Motion of a Charged Particle In An Electric Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wear Resistance"
+              "title": "Backlinks for Motion of a Charged Particle In An Electric Field"
             }
           },
           {
@@ -225,8 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b9e592fa521c024",
+  "active": "89011ce5a67f01aa",
   "lastOpenFiles": [
+    "Physics/Torque.md",
+    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Motion of a Charged Particle In An Electric Field.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/Financing.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/Levelized Cost of Energy.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/Energy Economics.md",
@@ -237,7 +215,6 @@
     "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/Capital Cost.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Energy Outlooks.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/Energy Economics in Michigan.md",
-    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Motion of a Charged Particle In An Electric Field.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/Standardization.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/Market Failures.md",
     "Untitled.canvas",
@@ -261,7 +238,6 @@
     "Ink/Drawing/2026.1.14 - 11.34am.drawing",
     "Ink/Drawing/2026.1.14 - 11.23am.drawing",
     "Ink/Drawing/2026.1.14 - 11.10am.drawing",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties/Stress Corrosion.md",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Deteriorative Properties",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties"
