@@ -1,0 +1,11 @@
+- Monopoly/Monopsony, Oligopoly/Oligopsony
+	- opoly - only one seller
+	- opsony - only one buyer
+- Rents and windfall profits
+	- No money in, yes money out - 
+- [[Externalities]]
+- Information asymmetry and costs
+- Barriers for entry & uneven bargaining power
+- Resource allocation & participation
+- [[Standardization]]
+- Personal Incentives/interests/vested interest/corruption

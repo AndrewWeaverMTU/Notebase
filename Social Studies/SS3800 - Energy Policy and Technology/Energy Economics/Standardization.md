@@ -1,0 +1,2 @@
+- Standards are good to a point
+- If too strict, they can severely limit innovation. 

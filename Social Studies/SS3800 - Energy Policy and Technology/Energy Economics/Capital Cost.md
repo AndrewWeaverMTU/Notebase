@@ -1,0 +1,3 @@
+- The up-front /startup cost of something.
+- Capital expenses (capex)
+- Stuff like building materials & setup
