@@ -1,0 +1,3 @@
+- Link to [[Flux Integrals]]
+- The flow of an electric field through an object
+- Outward = Positive, Inward = Negative, no net charge = no net flux
