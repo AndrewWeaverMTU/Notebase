@@ -157,6 +157,12 @@ $$v_{out} = \left( 1 + \frac{R_2}{R_1}\right)\cdot v_{in}$$
 - Very rarely used, too many resistors to deal with & non-infinite input resistance.´
 $$v_{out} = \frac{R_2}{R_1} \cdot (v_2 - v_1)$$
 - only if R2 = R4 and R1 = R3
+
+
+### Differential & Common Mode Input
+- Differential - $V_{in} = v_+- v_-$
+- Common $V_{in} = \frac{1}{2}(v_- + v_+)$
+
 ### Solving
 
 ```handdrawn-ink
@@ -165,6 +171,17 @@ $$v_{out} = \frac{R_2}{R_1} \cdot (v_2 - v_1)$$
 	"filepath": "Ink/Drawing/2026.1.16 - 11.36am.drawing",
 	"width": 504,
 	"aspectRatio": 0.7567567567567568
+}
+```
+
+### Difference Amp w/ Common Mode Input
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.1.26 - 11.26am.drawing",
+	"width": 439,
+	"aspectRatio": 0.3152603231597846
 }
 ```
 
@@ -201,7 +218,7 @@ $$v_{out} = \frac{R_2}{R_1} \cdot (v_2 - v_1)$$
 	"aspectRatio": 1
 }
 ```
-### Solving
+### Solving - Differential Config
 
 ```handdrawn-ink
 {
@@ -224,6 +241,10 @@ $$v_{out} = \frac{R_2}{R_1} \cdot (v_2 - v_1)$$
 - Acts as a comparator
 - Vout will equal Vpos or Vneg
 - If $V_{out} = V_{pos}$
+
+## Implementation Amplifier Configuration
+
+
 # Internal Operation
  3 Major Steps:
  1. Differential Amplifier - 2 inputs - Inverting (v-) and non-inverting (v+) terminals
