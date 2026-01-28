@@ -2,7 +2,12 @@
 - Takes into account capital costs, fuel costs, fixed and variable operations and maintenance (O&M) costs, financing costs, and an assumed utilization rate for each plant type
 - Greatly varies by the region
 $$\text{LCOE} = \frac{\text{Fixed Costs}}{\text{Capacity Factor} + \text{Variable Costs}}$$
-
+$$\text{Fixed Costs} = \left(\frac{r \times \text{Overnight Cost}}{1-e^{rT}}  \right) \div 8.76$$
+- $r = \text{Annual Discount Rate}$
+- $T = \text{Plant lifetime in years}$
+- Overnight Cost - As if it were created instantly. The total cost of the plant. 
+- Level the overnight cost over the plant’s life of T years.
+- Results in $/MWh
 ## Other Concepts
 - ARR - annual revenue requirement - avg revenue needed to break even over a lifetime
 - LACE - Levelized avoided costs of energy - cost of electricity & **value for the grid** (grid-centric calculation). 
