@@ -1,7 +1,15 @@
 - The first of [[Maxwell's Equations]]
-- **The electric flux trhough a closed surface is proportional to the amount of charge $Q_{in}$ within the surface**
+- **The [[Electric Flux]] through a closed surface is proportional to the amount of charge $Q_{in}$ within the surface**
 - Useful for finding the electric fields of charge distributions that have a high degree of [[Symmetry]]
+- Makes use of the [[Divergence Theorem]]
+ $$\huge \Phi_E = \oint_{surface} \vec{E} \cdot d\vec{A} = \frac{1}{\epsilon_0} \int_{volume} \rho \cdot dV$$
+- $\Phi_E$ = Electric flux
+- $\rho$ = 
 
+### Open Vs Closed Surfaces
+- **Open**
+	- Doesn't fully enclose a volume
+	- If the surface is flat, $d\vec{A}$ always points in the same direction
 ### Properties
 - Gauss's can be used to establish three particular properties of conductors in equilibrium:
 	1. Any excess charge is on the surface

@@ -1,0 +1,2 @@
+- [[Biomaterials|Biomaterial]] integration with bone
+- Structural and functional connection between living bone and implant surface.
