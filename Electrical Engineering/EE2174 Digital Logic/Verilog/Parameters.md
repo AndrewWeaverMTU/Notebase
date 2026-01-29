@@ -1,0 +1,2 @@
+- [[Verilog]]
+- Symbolic variables, like a `#define` in C. 

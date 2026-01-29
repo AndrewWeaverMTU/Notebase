@@ -1,5 +1,5 @@
 - Def - A set of ideas or a plan for action followed by a business, a government, a political party, or a group of people
-- Most energy policy is federal and state.
+- Most energy policy is federal and state. Not much on the local scale.
 
 
 - 3 Major Componenets:

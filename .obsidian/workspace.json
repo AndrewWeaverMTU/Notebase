@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "6d00a8784e83df84",
+            "id": "3c573bbc8808bba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Divergence Theorem.md",
+                "file": "Social Studies/SS3800 - Energy Policy and Technology/Policy/Judicial Standing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -35,40 +35,16 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Divergence Theorem"
-            }
-          },
-          {
-            "id": "1371fb4f5d1f2d6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Electric Flux.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Electric Flux"
+              "title": "Judicial Standing"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,6 +202,23 @@
   },
   "active": "3b9e592fa521c024",
   "lastOpenFiles": [
+    "Social Studies/SS3800 - Energy Policy and Technology/Policy/The Federal Government in Policymaking.md",
+    "Social Studies/SS3800 - Energy Policy and Technology/Policy/Judicial Standing.md",
+    "Social Studies/SS3800 - Energy Policy and Technology/Policy/Policy.md",
+    "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/EROI.md",
+    "Social Studies/SS3800 - Energy Policy and Technology/Policy",
+    "Electrical Engineering/EE2174 Digital Logic/Verilog/Instantiation.md",
+    "Electrical Engineering/EE2174 Digital Logic/Verilog/2x2 Sorter.md",
+    "Electrical Engineering/EE2174 Digital Logic/Verilog/Parameters.md",
+    "Electrical Engineering/EE2174 Digital Logic/Verilog/Verilog Arithmetic Functions.md",
+    "Electrical Engineering/EE2174 Digital Logic/Logic Gates/NAND Gate.md",
+    "Electrical Engineering/EE2174 Digital Logic/Logic Gates/Linking Gates.md",
+    "Electrical Engineering/EE2174 Digital Logic/Verilog/Procedural Statements.md",
+    "Electrical Engineering/EE3131 Electronics/Non-Ideal Op-Amps.md",
+    "Ink/Writing/2026.1.28 - 11.06am.writing",
+    "Ink/Drawing/2026.1.28 - 11.32am.drawing",
+    "Ink/Drawing/2026.1.28 - 11.26am.drawing",
+    "Ink/Drawing/2026.1.28 - 11.18am.drawing",
     "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Gauss's Law.md",
     "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Divergence Theorem.md",
     "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Electric Flux.md",
@@ -233,36 +226,19 @@
     "Biology/BE2800 - Biomaterials/Biomaterial Applications.md",
     "Biology/BE2800 - Biomaterials/Metal Surfaces.md",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Fractured Hip Joint Replacement.md",
-    "Electrical Engineering/EE2174 Digital Logic/Verilog/Instantiation.md",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Types of Materials.md",
     "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Ring of Charge.md",
-    "Social Studies/SS3800 - Energy Policy and Technology/Policy.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/Capacity Factor.md",
     "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Line of Charge.md",
     "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Point Charge.md",
     "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Symmetry.md",
     "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Hardness.md",
-    "Electrical Engineering/EE2174 Digital Logic/Verilog/Verilog.md",
-    "Electrical Engineering/EE2174 Digital Logic/Boolean Algebra/K-Maps.md",
-    "Electrical Engineering/EE2174 Digital Logic/Verilog/Multi-Bit Variables.md",
-    "Electrical Engineering/EE2174 Digital Logic/Boolean Algebra/Representations of Digital Systems.md",
     "Electrical Engineering/EE2174 Digital Logic/Verilog",
     "Electrical Engineering/EE2174 Digital Logic/Boolean Algebra",
     "Ink/Drawing/2026.1.26 - 11.26am.drawing",
-    "Electrical Engineering/EE2174 Digital Logic/Boolean Algebra/Sum of Products.md",
-    "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Flux Integrals.md",
     "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law",
-    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Motion of a Charged Particle In An Electric Field.md",
-    "Physics/Torque.md",
-    "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/Financing.md",
-    "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/Levelized Cost of Energy.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Ink/Writing/2026.1.14 - 10.08am.writing",
-    "Ink/Drawing/2026.1.14 - 11.37am.drawing",
-    "Ink/Drawing/2026.1.14 - 11.34am.drawing",
-    "Ink/Drawing/2026.1.14 - 11.23am.drawing",
-    "Ink/Drawing/2026.1.14 - 11.10am.drawing"
+    "Untitled 1.canvas"
   ]
 }
