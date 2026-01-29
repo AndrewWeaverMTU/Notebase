@@ -66,9 +66,33 @@
               "icon": "lucide-file",
               "title": "Gauss's Law"
             }
+          },
+          {
+            "id": "6c6336fbc6cc91be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Work"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -224,12 +248,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "3b9e592fa521c024",
+  "active": "6c6336fbc6cc91be",
   "lastOpenFiles": [
+    "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Gauss's Law.md",
+    "Work.md",
+    "Mathematics/Calc II",
     "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Flux Integrals.md",
     "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Electric Flux.md",
     "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Electric Flux Through a Closed Surface Around a Point Charge.md",
-    "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Gauss's Law.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Policy/Judicial Standing.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Policy/The Federal Government in Policymaking.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Policy/Policy.md",
@@ -256,12 +282,10 @@
     "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Ring of Charge.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/Capacity Factor.md",
     "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Line of Charge.md",
-    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Point Charge.md",
     "Electrical Engineering/EE2174 Digital Logic/Verilog",
     "Electrical Engineering/EE2174 Digital Logic/Boolean Algebra",
     "Ink/Drawing/2026.1.26 - 11.26am.drawing",
     "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law",
-    "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
