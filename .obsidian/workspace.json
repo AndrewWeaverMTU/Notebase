@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "3c573bbc8808bba6",
+            "id": "dc0ed69408351ea6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social Studies/SS3800 - Energy Policy and Technology/Policy/Judicial Standing.md",
+                "file": "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Gauss's Law.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -35,16 +35,40 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": true,
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Judicial Standing"
+              "title": "Gauss's Law"
+            }
+          },
+          {
+            "id": "c767679f4390cacd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Gauss's Law.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Gauss's Law"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,8 +226,12 @@
   },
   "active": "3b9e592fa521c024",
   "lastOpenFiles": [
-    "Social Studies/SS3800 - Energy Policy and Technology/Policy/The Federal Government in Policymaking.md",
+    "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Flux Integrals.md",
+    "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Electric Flux.md",
+    "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Electric Flux Through a Closed Surface Around a Point Charge.md",
+    "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Gauss's Law.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Policy/Judicial Standing.md",
+    "Social Studies/SS3800 - Energy Policy and Technology/Policy/The Federal Government in Policymaking.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Policy/Policy.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/EROI.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Policy",
@@ -219,9 +247,7 @@
     "Ink/Drawing/2026.1.28 - 11.32am.drawing",
     "Ink/Drawing/2026.1.28 - 11.26am.drawing",
     "Ink/Drawing/2026.1.28 - 11.18am.drawing",
-    "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Gauss's Law.md",
     "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Divergence Theorem.md",
-    "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Electric Flux.md",
     "Biology/BE2800 - Biomaterials/Osteointegration.md",
     "Biology/BE2800 - Biomaterials/Biomaterial Applications.md",
     "Biology/BE2800 - Biomaterials/Metal Surfaces.md",
@@ -231,8 +257,6 @@
     "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/Capacity Factor.md",
     "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Line of Charge.md",
     "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Point Charge.md",
-    "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Symmetry.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Material Properties/Mechanical Properties/Material Hardness.md",
     "Electrical Engineering/EE2174 Digital Logic/Verilog",
     "Electrical Engineering/EE2174 Digital Logic/Boolean Algebra",
     "Ink/Drawing/2026.1.26 - 11.26am.drawing",
