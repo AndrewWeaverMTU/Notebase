@@ -2,7 +2,7 @@
 - **The [[Electric Flux]] through a closed surface is proportional to the amount of charge $Q_{in}$ within the surface**
 - Useful for finding the electric fields of charge distributions that have a high degree of [[Symmetry]]
 - Makes use of the [[Divergence Theorem]]
- $$\huge \Phi_E = \oint_{surface} \vec{E} \cdot d\vec{A} = \frac{1}{\epsilon_0} \int_{volume} \rho \cdot dV$$
+ $$\huge \Phi_E = \oint_{surface} \vec{E} \cdot d\vec{A} = \frac{Q_{enclosed}}{\epsilon_0}$$
 - $\Phi_E$ = Electric flux
 - $\rho$ = 
 
