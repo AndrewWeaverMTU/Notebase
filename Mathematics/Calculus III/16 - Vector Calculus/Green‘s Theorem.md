@@ -1,5 +1,5 @@
 - Defines the relationship between a [[Line Integrals|Line Integral]] around a simple closed curve and a [[Double Integrals|Double Integral]] over the plane region bounded by the curve.
-- An easier way (similar to FTCII) to solve [[line integrals]].
+- An easier way (similar to FTCII) to solve [[Line Integrals]].
 - Positively oriented -> Counterclockwise
 #### Defintion
 $$$$

@@ -1,5 +1,5 @@
 
-- The [[Flux Integrals|Flux Integral]] over a simple solid region with an outward-oriented boundary surface (flowing out is positive) is equal to the Triple Integral of the [[divergence]] with respect to the volume.
+- The [[Flux Integrals|Flux Integral]] over a simple solid region with an outward-oriented boundary surface (flowing out is positive) is equal to the Triple Integral of the [[Divergence]] with respect to the volume.
 - Sum of Flux across surface = Sum of divergence over the volume. 
 
 $$\huge \int_S\int\vec{F}\cdot d\vec{S} = \int\int\int_V Div\space\vec{F}\space\\dV$$

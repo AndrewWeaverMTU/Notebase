@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "dc0ed69408351ea6",
+            "id": "9eb8b5a58265a14e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Gauss's Law.md",
+                "file": "Mathematics/Calculus III/14 - Partial Derivatives/Multivariate Functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,16 +40,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gauss's Law"
+              "title": "Multivariate Functions"
             }
           },
           {
-            "id": "c767679f4390cacd",
+            "id": "c7b30f23cc22190f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Gauss's Law.md",
+                "file": "Mathematics/Calculus III/14 - Partial Derivatives/Limits of Multivariate Functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,35 +64,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gauss's Law"
-            }
-          },
-          {
-            "id": "6c6336fbc6cc91be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Work"
+              "title": "Limits of Multivariate Functions"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -248,12 +224,20 @@
       "templates:Insert template": false
     }
   },
-  "active": "6c6336fbc6cc91be",
+  "active": "c7b30f23cc22190f",
   "lastOpenFiles": [
+    "Mathematics/Calculus III/14 - Partial Derivatives/Multivariate Functions.md",
+    "Mathematics/Calculus III/14 - Partial Derivatives/Limits of Multivariate Functions.md",
+    "Mathematics/Calculus III/14 - Partial Derivatives",
     "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Gauss's Law.md",
-    "Work.md",
+    "Mathematics/Calculus III/Work.md",
+    "Mathematics/Calculus III/14 - Partial Derivatives/Untitled 1.md",
+    "Untitled 1.md",
+    "Electrical Engineering/EE3131 Electronics/Op-Amp Frequency Response.md",
+    "Ink/Drawing/2026.1.30 - 11.08am.drawing",
+    "Ink/Drawing/2026.1.30 - 11.06am.drawing",
     "Mathematics/Calc II",
-    "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Flux Integrals.md",
+    "Mathematics/Calculus III/16 - Vector Calculus/Flux Integrals.md",
     "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Electric Flux.md",
     "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law/Electric Flux Through a Closed Surface Around a Point Charge.md",
     "Social Studies/SS3800 - Energy Policy and Technology/Policy/Judicial Standing.md",
@@ -273,19 +257,11 @@
     "Ink/Drawing/2026.1.28 - 11.32am.drawing",
     "Ink/Drawing/2026.1.28 - 11.26am.drawing",
     "Ink/Drawing/2026.1.28 - 11.18am.drawing",
-    "Mathematics/Calculus III/Chapter 16 - Vector Calculus/Divergence Theorem.md",
+    "Mathematics/Calculus III/16 - Vector Calculus/Divergence Theorem.md",
     "Biology/BE2800 - Biomaterials/Osteointegration.md",
     "Biology/BE2800 - Biomaterials/Biomaterial Applications.md",
     "Biology/BE2800 - Biomaterials/Metal Surfaces.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Fractured Hip Joint Replacement.md",
-    "Biology/BE2800 - Biomaterials/1 - Introductory Concepts/Types of Materials.md",
-    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Ring of Charge.md",
-    "Social Studies/SS3800 - Energy Policy and Technology/Energy Economics/Capacity Factor.md",
-    "Physics/PH2200 - Electricity and Magnetism/23 - The Electric Field/Electric Field of a Line of Charge.md",
     "Electrical Engineering/EE2174 Digital Logic/Verilog",
-    "Electrical Engineering/EE2174 Digital Logic/Boolean Algebra",
-    "Ink/Drawing/2026.1.26 - 11.26am.drawing",
-    "Physics/PH2200 - Electricity and Magnetism/24 - Gauss's Law",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
